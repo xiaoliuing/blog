@@ -32,9 +32,11 @@
 
 ### javascript
 
-[1、作用域和作用域链]()
+[1、js的数据类型与运算](https://github.com/xiaoliuing/_react-vue/issues/8)
 
-[2、this的问题]()
+[2、执行上下文、作用域和作用域链](https://github.com/xiaoliuing/_react-vue/issues/8)
+
+[3、this的问题]()
 
 ### html+css
 
