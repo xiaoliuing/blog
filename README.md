@@ -32,7 +32,7 @@
 
 ### javascript
 
-[1、js的数据类型与运算](https://github.com/xiaoliuing/_react-vue/issues/8)
+[1、js的数据类型与运算](https://github.com/xiaoliuing/_react-vue/issues/7)
 
 [2、执行上下文、作用域和作用域链](https://github.com/xiaoliuing/_react-vue/issues/8)
 
@@ -47,6 +47,8 @@
 ### 数据结构与算法
 
 [1、数据结构与算法的关系](https://github.com/xiaoliuing/_react-vue/issues/6)
+
+[2、数据结构之列表](https://github.com/xiaoliuing/_react-vue/issues/9)
 
 [2、时间复杂度和空间复杂度]()
 
