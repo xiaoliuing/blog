@@ -42,7 +42,7 @@
 
 [1、css垂直水平居中的方法](https://github.com/xiaoliuing/_react-vue/issues/12)
 
-[2、css的target制作锚点]()
+[2、css3中:target伪类选择器制作锚点](https://github.com/xiaoliuing/_react-vue/issues/15)
 
 ### 数据结构与算法
 
