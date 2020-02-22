@@ -57,3 +57,8 @@
 [1、冒泡排序](https://github.com/xiaoliuing/_react-vue/issues/10)
 
 [2、选择排序](https://github.com/xiaoliuing/_react-vue/issues/11)
+
+[3、插入排序](https://github.com/xiaoliuing/_react-vue/issues/13)
+
+[4、归并排序](https://github.com/xiaoliuing/_react-vue/issues/14)
+
