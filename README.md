@@ -38,6 +38,8 @@
 
 [3、this的问题]()
 
+[4、手撸一个符合Promise A+规范的Promise]()
+
 ### html+css
 
 [1、css垂直水平居中的方法](https://github.com/xiaoliuing/_react-vue/issues/12)
