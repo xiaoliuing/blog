@@ -51,17 +51,17 @@
 **数据结构**
 
 > [1、数据结构与算法的关系](https://github.com/xiaoliuing/_react-vue/issues/6)
-
+> 
 > [2、数据结构之列表](https://github.com/xiaoliuing/_react-vue/issues/9)
 
 **算法**
 
 > [1、冒泡排序](https://github.com/xiaoliuing/_react-vue/issues/10)
-
+> 
 > [2、选择排序](https://github.com/xiaoliuing/_react-vue/issues/11)
-
+> 
 > [3、插入排序](https://github.com/xiaoliuing/_react-vue/issues/13)
-
+> 
 > [4、归并排序](https://github.com/xiaoliuing/_react-vue/issues/14)
 
 **浏览器相关**
