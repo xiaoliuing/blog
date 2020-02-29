@@ -32,35 +32,40 @@
 
 ### javascript
 
-[1、js的数据类型与运算](https://github.com/xiaoliuing/_react-vue/issues/7)
-
-[2、执行上下文、作用域和作用域链](https://github.com/xiaoliuing/_react-vue/issues/8)
-
-[3、this的问题]()
-
-[4、手撸一个符合Promise A+规范的Promise]()
+> [1、js的数据类型与运算](https://github.com/xiaoliuing/_react-vue/issues/7)
+> 
+> [2、执行上下文、作用域和作用域链](https://github.com/xiaoliuing/_react-vue/issues/8)
+> 
+> [3、this的问题]()
+> 
+> [4、手撸一个符合Promise A+规范的Promise]()
 
 ### html+css
 
-[1、css垂直水平居中的方法](https://github.com/xiaoliuing/_react-vue/issues/12)
+> [1、css垂直水平居中的方法](https://github.com/xiaoliuing/_react-vue/issues/12)
 
-[2、css3中:target伪类选择器制作锚点](https://github.com/xiaoliuing/_react-vue/issues/15)
+> [2、css3中:target伪类选择器制作锚点](https://github.com/xiaoliuing/_react-vue/issues/15)
 
 ### 数据结构与算法
 
 **数据结构**
 
-[1、数据结构与算法的关系](https://github.com/xiaoliuing/_react-vue/issues/6)
+> [1、数据结构与算法的关系](https://github.com/xiaoliuing/_react-vue/issues/6)
 
-[2、数据结构之列表](https://github.com/xiaoliuing/_react-vue/issues/9)
+> [2、数据结构之列表](https://github.com/xiaoliuing/_react-vue/issues/9)
 
 **算法**
 
-[1、冒泡排序](https://github.com/xiaoliuing/_react-vue/issues/10)
+> [1、冒泡排序](https://github.com/xiaoliuing/_react-vue/issues/10)
 
-[2、选择排序](https://github.com/xiaoliuing/_react-vue/issues/11)
+> [2、选择排序](https://github.com/xiaoliuing/_react-vue/issues/11)
 
-[3、插入排序](https://github.com/xiaoliuing/_react-vue/issues/13)
+> [3、插入排序](https://github.com/xiaoliuing/_react-vue/issues/13)
 
-[4、归并排序](https://github.com/xiaoliuing/_react-vue/issues/14)
+> [4、归并排序](https://github.com/xiaoliuing/_react-vue/issues/14)
 
+**浏览器相关**
+
+>[1、DNS解析流程](https://github.com/xiaoliuing/_react-vue/issues/17)
+>
+>
