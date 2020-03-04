@@ -28,7 +28,7 @@
 [1、Vue的响应式原理](https://github.com/xiaoliuing/_react-vue/issues/16)
 
 
-## 凡人修仙，每日三问
+## 凡人修仙，每日一问
 
 ### javascript
 
@@ -36,7 +36,7 @@
 > 
 > [2、执行上下文、作用域和作用域链](https://github.com/xiaoliuing/_react-vue/issues/8)
 > 
-> [3、this的问题]()
+> [3、this那些事](https://github.com/xiaoliuing/_react-vue/issues/18)
 > 
 > [4、手撸一个符合Promise A+规范的Promise]()
 
