@@ -25,27 +25,47 @@
 
 ### Vue源码浅析
 
-....
+[1、Vue的响应式原理](https://github.com/xiaoliuing/_react-vue/issues/16)
 
 
-## 凡人修仙，每日三问
+## 凡人修仙，每日一问
 
 ### javascript
 
-[1、作用域和作用域链]()
-
-[2、this的问题]()
+> [1、js的数据类型与运算](https://github.com/xiaoliuing/_react-vue/issues/7)
+> 
+> [2、执行上下文、作用域和作用域链](https://github.com/xiaoliuing/_react-vue/issues/8)
+> 
+> [3、this那些事](https://github.com/xiaoliuing/_react-vue/issues/18)
+> 
+> [4、手撸一个符合Promise A+规范的Promise]()
 
 ### html+css
 
-[1、css垂直水平居中的方法]()
+> [1、css垂直水平居中的方法](https://github.com/xiaoliuing/_react-vue/issues/12)
 
-[2、css的target制作锚点]()
+> [2、css3中:target伪类选择器制作锚点](https://github.com/xiaoliuing/_react-vue/issues/15)
 
 ### 数据结构与算法
 
-[1、时间复杂度和空间复杂度]()
+**数据结构**
 
-[2、数组]()
+> [1、数据结构与算法的关系](https://github.com/xiaoliuing/_react-vue/issues/6)
+> 
+> [2、数据结构之列表](https://github.com/xiaoliuing/_react-vue/issues/9)
 
-[3、链表]()
+**算法**
+
+> [1、冒泡排序](https://github.com/xiaoliuing/_react-vue/issues/10)
+> 
+> [2、选择排序](https://github.com/xiaoliuing/_react-vue/issues/11)
+> 
+> [3、插入排序](https://github.com/xiaoliuing/_react-vue/issues/13)
+> 
+> [4、归并排序](https://github.com/xiaoliuing/_react-vue/issues/14)
+
+**浏览器相关**
+
+>[1、DNS解析流程](https://github.com/xiaoliuing/_react-vue/issues/17)
+>
+>
