@@ -38,7 +38,7 @@
 > 
 > [3、this那些事](https://github.com/xiaoliuing/_react-vue/issues/18)
 > 
-> [4、手撸一个符合Promise A+规范的Promise]()
+> [4、手撸一个符合Promise A+规范的Promise](https://github.com/xiaoliuing/_react-vue/issues/19)
 
 ### html+css
 
