@@ -2,7 +2,7 @@
 
 ## 一、React原理深入与源码浅析
 
-### React补充
+**React补充**
 
 [1、重温react](https://github.com/xiaoliuing/_react-vue/issues/1)
 
@@ -10,20 +10,20 @@
 
 [3、redux的构建思想与手写Redux](https://github.com/xiaoliuing/_react-vue/issues/5)
 
-### React源码浅析
+**React源码浅析**
 
 .....
 
 
 ## 二、Vue原理深入与源码浅析
 
-### Vue补充
+**Vue补充**
 
 > [1、重温Vue](https://github.com/xiaoliuing/_react-vue/issues/3)
 > 
 >[2、手写Vue DOM Diff](https://github.com/xiaoliuing/_react-vue/issues/4)
 
-### Vue源码浅析
+**Vue源码浅析**
 
 > [1、Vue的响应式原理](https://github.com/xiaoliuing/_react-vue/issues/16)
 >
@@ -32,7 +32,7 @@
 
 ## 三、凡人修仙，每日一问
 
-### javascript
+**javascript**
 
 > [1、js的数据类型与运算](https://github.com/xiaoliuing/_react-vue/issues/7)
 > 
@@ -42,21 +42,21 @@
 > 
 > [4、手撸一个符合Promise A+规范的Promise](https://github.com/xiaoliuing/_react-vue/issues/19)
 
-### html+css
+**html+css**
 
 > [1、css垂直水平居中的方法](https://github.com/xiaoliuing/_react-vue/issues/12)
 
 > [2、css3中:target伪类选择器制作锚点](https://github.com/xiaoliuing/_react-vue/issues/15)
 
-### 数据结构与算法
+**数据结构与算法**
 
-**数据结构**
+1、数据结构
 
 > [1、数据结构与算法的关系](https://github.com/xiaoliuing/_react-vue/issues/6)
 > 
 > [2、数据结构之列表](https://github.com/xiaoliuing/_react-vue/issues/9)
 
-**算法**
+2、算法
 
 > [1、冒泡排序](https://github.com/xiaoliuing/_react-vue/issues/10)
 > 
