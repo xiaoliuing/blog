@@ -19,16 +19,18 @@
 
 ### Vue补充
 
-[1、重温Vue](https://github.com/xiaoliuing/_react-vue/issues/3)
-
-[2、手写Vue DOM Diff](https://github.com/xiaoliuing/_react-vue/issues/4)
+> [1、重温Vue](https://github.com/xiaoliuing/_react-vue/issues/3)
+> 
+>[2、手写Vue DOM Diff](https://github.com/xiaoliuing/_react-vue/issues/4)
 
 ### Vue源码浅析
 
-[1、Vue的响应式原理](https://github.com/xiaoliuing/_react-vue/issues/16)
+> [1、Vue的响应式原理](https://github.com/xiaoliuing/_react-vue/issues/16)
+>
+> [2、 Vue对数组的处理](https://github.com/xiaoliuing/_react-vue/issues/20)
 
 
-## 凡人修仙，每日一问
+## 三、凡人修仙，每日一问
 
 ### javascript
 
