@@ -27,9 +27,11 @@
 
 > [1、Vue的响应式原理](https://github.com/xiaoliuing/_react-vue/issues/16)
 >
-> [2、 Vue对数组的处理](https://github.com/xiaoliuing/_react-vue/issues/20)
+> [2、Vue对数组的处理](https://github.com/xiaoliuing/_react-vue/issues/20)
 > 
->[3、Vue批量更新和nextTick原理 ](https://github.com/xiaoliuing/_react-vue/issues/21)
+> [3、Vue批量更新和nextTick原理 ](https://github.com/xiaoliuing/_react-vue/issues/21)
+>
+>[4、watch与computed原理](https://github.com/xiaoliuing/_react-vue/issues/22)
 
 ## 三、凡人修仙，每日一问
 
