@@ -31,7 +31,7 @@
 >
 >[4、watch与computed原理](https://github.com/xiaoliuing/blog/issues/22)
 
-## 三、凡人修仙，每日一问
+## 三、凡人修仙，学习巩固
 
 **javascript**
 
