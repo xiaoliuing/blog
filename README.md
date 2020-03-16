@@ -66,11 +66,11 @@
 
 > [1、数据结构与算法的关系](https://github.com/xiaoliuing/blog/issues/6)
 > 
-> [2、数据结构-列表](https://github.com/xiaoliuing/blog/issues/9)
+> [2、列表](https://github.com/xiaoliuing/blog/issues/9)
 > 
-> [3、数据结构-栈](https://github.com/xiaoliuing/blog/issues/24)
+> [3、栈](https://github.com/xiaoliuing/blog/issues/24)
 > 
-> [4、数据结构-队列](https://github.com/xiaoliuing/blog/issues/25)
+> [4、队列](https://github.com/xiaoliuing/blog/issues/25)
 
 2、算法
 
