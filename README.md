@@ -62,6 +62,9 @@
 > [2、列表](https://github.com/xiaoliuing/blog/issues/9) <br />
 > [3、栈](https://github.com/xiaoliuing/blog/issues/24) <br />
 > [4、队列](https://github.com/xiaoliuing/blog/issues/25) <br />
+> [5、链表](https://github.com/xiaoliuing/blog/issues/27) <br />
+> [6、散列](https://github.com/xiaoliuing/blog/issues/28) <br />
+> [7、集合](https://github.com/xiaoliuing/blog/issues/29) <br />
 
 2、算法
 
