@@ -65,6 +65,7 @@
 > [5、链表](https://github.com/xiaoliuing/blog/issues/27) <br />
 > [6、散列](https://github.com/xiaoliuing/blog/issues/28) <br />
 > [7、集合](https://github.com/xiaoliuing/blog/issues/29) <br />
+> [8、二叉树](https://github.com/xiaoliuing/blog/issues/30) <br />
 
 2、算法
 
