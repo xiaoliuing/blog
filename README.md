@@ -72,4 +72,6 @@
 > [1、冒泡排序-大值沉底](https://github.com/xiaoliuing/blog/issues/10) <br />
 > [2、选择排序-找到最大（小）值](https://github.com/xiaoliuing/blog/issues/11) <br />
 > [3、插入排序-理牌](https://github.com/xiaoliuing/blog/issues/13) <br />
-> [4、归并排序](https://github.com/xiaoliuing/blog/issues/14) <br />
+> [4、希尔排序](https://github.com/xiaoliuing/blog/issues/31) <br />
+> [5、归并排序](https://github.com/xiaoliuing/blog/issues/14) <br />
+> [6、快速排序-基准值、递归](https://github.com/xiaoliuing/blog/issues/32) <br />
