@@ -75,3 +75,4 @@
 > [4、希尔排序](https://github.com/xiaoliuing/blog/issues/31) <br />
 > [5、归并排序](https://github.com/xiaoliuing/blog/issues/14) <br />
 > [6、快速排序-基准值、递归](https://github.com/xiaoliuing/blog/issues/32) <br />
+> [7、检索算法-顺序、二分](https://github.com/xiaoliuing/blog/issues/33) <br />
