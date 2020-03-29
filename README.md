@@ -37,6 +37,7 @@
 > [3、this那些事](https://github.com/xiaoliuing/blog/issues/18) <br />
 > [4、手撸一个符合Promise A+规范的Promise](https://github.com/xiaoliuing/blog/issues/19) <br />
 > [5、ES6中class继承机制](https://github.com/xiaoliuing/blog/issues/26) <br />
+> [5、Drone前端自动化部署](https://github.com/xiaoliuing/blog/issues/35) <br />
 
 **html+css**
 
@@ -53,6 +54,10 @@
 **webpack**
 
 > [1、写一个简单地webpack plugin所引发的思考](https://github.com/xiaoliuing/blog/issues/23) <br />
+
+**Node相关**
+
+> [1、深入理解Node异步IO](https://github.com/xiaoliuing/blog/issues/36) <br />
 
 **数据结构与算法**
 
