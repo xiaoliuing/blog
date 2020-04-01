@@ -17,7 +17,7 @@
 **Vue补充**
 
 > [1、重温Vue](https://github.com/xiaoliuing/blog/issues/3) <br />
->[2、手写Vue DOM Diff](https://github.com/xiaoliuing/blog/issues/4) <br />
+> [2、手写Vue DOM Diff](https://github.com/xiaoliuing/blog/issues/4) <br />
 
 **Vue源码浅析**
 
@@ -28,7 +28,7 @@
 
 <br />
 
-## 凡人修仙，学习巩固
+## 凡人修仙，每日一问（记）
 
 **javascript**
 
@@ -59,7 +59,9 @@
 
 > [1、深入理解Node异步IO](https://github.com/xiaoliuing/blog/issues/36) <br />
 
-**数据结构与算法**
+<br />
+
+## 数据结构与算法
 
 1、数据结构
 
