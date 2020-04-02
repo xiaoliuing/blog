@@ -48,7 +48,7 @@
 **浏览器相关**
 
 >[1、DNS解析流程](https://github.com/xiaoliuing/blog/issues/17) <br />
->
+>[2、性能优化-35条雅虎军规](https://github.com/xiaoliuing/blog/issues/38) <br />
 >
 
 **webpack**
