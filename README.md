@@ -38,6 +38,7 @@
 > [4、手撸一个符合Promise A+规范的Promise](https://github.com/xiaoliuing/blog/issues/19) <br />
 > [5、ES6中class继承机制](https://github.com/xiaoliuing/blog/issues/26) <br />
 > [6、Drone前端自动化部署](https://github.com/xiaoliuing/blog/issues/35) <br />
+> [7、关于运算符“++、--”的一个坑](https://github.com/xiaoliuing/blog/issues/39) <br />
 
 **html+css**
 
