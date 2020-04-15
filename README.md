@@ -61,6 +61,10 @@
 > [1、深入理解Node异步IO](https://github.com/xiaoliuing/blog/issues/36) <br />
 > [2、从零手写一个Koa](https://github.com/xiaoliuing/blog/issues/37) <br />
 
+**其他**
+
+> [1、Flutter入门基础](https://github.com/xiaoliuing/blog/issues/40) <br />
+
 <br />
 
 ## 数据结构与算法
